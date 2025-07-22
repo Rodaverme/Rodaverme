@@ -1,60 +1,48 @@
-
-
- 
-
-
- <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  
-   
-</head>
-<body>
-    <div class="card">
-      <p align="center">
-
-   
-  <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
-       alt="Mi foto de perfil"
-       width="280"
-       height="580"
-       style="border-radius: 50%; border: 4px solid #3498db; object-fit: cover;">
+<!-- Encabezado con imagen de banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5e58ff&height=200&section=header&text=¡Hola!%20Soy%20%20RUNYY_DEV&fontColor=ffffff&fontSize=40" alt="banner" />
 </p>
-        <h1>Tu Nombre</h1>
-        <p>💻 Desarrollador Full Stack | Flutter & Java</p>
-        <p>🌎 Colombia</p>
-        <p>🚀 Amante de proyectos open-source</p>
-        <div class="socials">
-            <a href="https://github.com/TU_USUARIO" target="_blank">🐱 GitHub</a>
-            <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">🔗 LinkedIn</a>
-            <a href="mailto:tuemail@correo.com">✉️ Email</a>
-        </div>
-    </div>
-</body>
-</html>
 
+<!-- Foto de perfil -->
+<p align="center">
+  <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg" width="350"  style="border-radius:50%;" />
+</p>
 
-.profile-img {
-    width: 180px;            /* Tamaño de la imagen */
-    height: 180px;
-    object-fit: cover;       /* Ajusta y recorta para que no se deforme */
-    border-radius: 50%;      /* Hace que se vea circular */
-    border: 4px solid #3498db; /* Color y grosor del marco */
-}
+<!-- Nombre y título -->
+<h1 align="center">Hola 👋, soy Ronald David Vera Meneses</h1>
+<h3 align="center">💻 Desarrollador Full Stack | Flutter & Java & Kotlin  | Colombia</h3>
 
-<!--
-**Rodaverme/Rodaverme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre mí -->
+- 🚀 Actualmente trabajando en **proyectos de Flutter y sistemas de ventas**
+- 🌱 Aprendiendo **IA aplicada a sistemas multiplataforma**
+- 🛠️ Me gusta construir proyectos que impacten positivamente a las personas
 
-Here are some ideas to get you started:
+<!-- Contacto -->
+<h3 align="center">Conéctate conmigo:</h3>
+<p align="center">
+  <a href="https://github.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tuemail@correo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Lenguajes y herramientas -->
+<h3 align="center">🛠️ Tecnologías que uso:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<!-- Estadísticas de GitHub -->
+<h3 align="center">📈 Mis estadísticas de GitHub:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodaverme&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodaverme&theme=tokyonight" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodaverme&layout=compact&theme=tokyonight" alt="languages" />
+</p>
