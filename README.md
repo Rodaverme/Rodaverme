@@ -11,11 +11,13 @@
 </head>
 <body>
     <div class="card">
-      <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
-     alt="Mi foto de perfil"
-     class="profile-img"
-     width="300"
-     height="500">
+      <p align="center">
+  <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
+       alt="Mi foto de perfil"
+       width="180"
+       height="180"
+       style="border-radius: 50%; border: 4px solid #3498db; object-fit: cover;">
+</p>
         <h1>Tu Nombre</h1>
         <p>💻 Desarrollador Full Stack | Flutter & Java</p>
         <p>🌎 Colombia</p>
@@ -30,7 +32,13 @@
 </html>
 
 
-
+.profile-img {
+    width: 180px;            /* Tamaño de la imagen */
+    height: 180px;
+    object-fit: cover;       /* Ajusta y recorta para que no se deforme */
+    border-radius: 50%;      /* Hace que se vea circular */
+    border: 4px solid #3498db; /* Color y grosor del marco */
+}
 
 <!--
 **Rodaverme/Rodaverme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
