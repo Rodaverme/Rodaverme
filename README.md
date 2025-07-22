@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 ![Static Badge](https://img.shields.io/badge/Runny_Devs-Portfolio-purple?style=flat&link=https%3A%2F%2Frunyy-portfolio.vercel.app%2F)
-<img alt="Static Badge" src="https://img.shields.io/badge/Runny_Devs-Portfolio-purple?style=flat&link=https%3A%2F%2Frunyy-portfolio.vercel.app%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/Runny_Devs-Portfolio-purple?style=flat&link=https%3A%2F%2Frunyy-portfolio.vercel.app%2F
-">
+<a  href = https://runyy-portfolio.vercel.app/  <img alt="Static Badge" src="https://img.shields.io/badge/Runny_Devs-Portfolio-purple?style=flat&link=https%3A%2F%2Frunyy-portfolio.vercel.app%2F"> </a>
+
 
 
 <!--
