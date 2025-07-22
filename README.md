@@ -14,8 +14,8 @@
       <p align="center">
   <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
        alt="Mi foto de perfil"
-       width="180"
-       height="180"
+       width="580"
+       height="280"
        style="border-radius: 50%; border: 4px solid #3498db; object-fit: cover;">
 </p>
         <h1>Tu Nombre</h1>
