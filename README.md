@@ -11,7 +11,11 @@
 </head>
 <body>
     <div class="card">
-        <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg" alt="Mi foto de perfil" class="profile-img">
+      <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
+     alt="Mi foto de perfil"
+     class="profile-img"
+     width="200"
+     height="200">
         <h1>Tu Nombre</h1>
         <p>💻 Desarrollador Full Stack | Flutter & Java</p>
         <p>🌎 Colombia</p>
