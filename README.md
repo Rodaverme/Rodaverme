@@ -14,8 +14,8 @@
       <img src="https://res.cloudinary.com/dmsshdovm/image/upload/v1753143111/r_bjesuj.jpg"
      alt="Mi foto de perfil"
      class="profile-img"
-     width="200"
-     height="200">
+     width="100"
+     height="100">
         <h1>Tu Nombre</h1>
         <p>💻 Desarrollador Full Stack | Flutter & Java</p>
         <p>🌎 Colombia</p>
